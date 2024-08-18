@@ -22,4 +22,6 @@ As you rebuild the model, you might have questions about why the modeler chose a
 
 # The Models
 
+001 [Forrester's Market Growth model](https://github.com/CBSDLab/model-of-the-week/tree/main/001-market-growth)
+
 
