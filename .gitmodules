@@ -1,0 +1,3 @@
+[submodule "market-growth"]
+	path = market-growth
+	url = git@github.com:CBSDLab/market-growth.git
