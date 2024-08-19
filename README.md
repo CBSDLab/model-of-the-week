@@ -24,6 +24,12 @@ As you rebuild the model, you might have questions about why the modeler chose a
 
 001 [Forrester's Market Growth model](https://github.com/CBSDLab/market-growth/tree/267acd4193e92d25cda41f1c263cbcf1b5ae55ae)
 
+# Future Models
+
+* Predator-Prey
+* Bass Diffusion
+* Tragedy of Commons  
+
 # Resources
 
 * [Translating DYNAMO models](https://github.com/CBSDLab/model-of-the-week/blob/main/Translating_DYNAMO.md)
