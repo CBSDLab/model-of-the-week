@@ -40,6 +40,7 @@ L  SUFFER.K=SUFFER.J+DT*(NOTICE.JK-TRYCON.JK)
 
 # Resources
 
+While out of print, Richardon and Pugh (1986) provide a solid introduction to the DYNAMO language and system dynamics modeling. More recently, Walker and Malczynski (2014) provide an overview of translating DYNAMO models to Powersim, a modern platform for system dynamics modeling. 
 
 # References
 Fox, P. A. (2005). *An interview with Phyllis A. Fox* [Interview]. 
@@ -47,3 +48,6 @@ Fox, P. A. (2005). *An interview with Phyllis A. Fox* [Interview].
 Pugh, A. L. (1963). *The DYNAMO User’s Manual.* The MIT Press. 
 
 Richardson, G. P., & Pugh, A. L. (1986). *Introduction to system dynamics modeling with DYNAMO.* MIT Press. 
+
+Walker, L. T. N., & Malczynski, L. (2014). *Converting DYNAMO simulations to Powersim Studio simulations.* Springfield, VA
+
