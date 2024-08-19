@@ -58,17 +58,17 @@ R  TRYAPP.KL=((TOLRAT.K*(LEGIT.K/100)+(CONSTR/100)))/TIMEGONE.K
 ```
 
 ### Auxiliary equations
-Defined as “A” equations with <name of variable>=<algebraic expression or value>
+Defined as “A” equations with the variable = the expression or value.
 
 ### Constants
-Defined as “C” equations: <name of constant>=<value>
+Defined as “C” equations with the variable = the expression or value.
 
 ### TABLE functions
 Appear in equations as …TABLE(<table name>, <input variable>, <x min, x max>, <x increment>
 Defined separately as “T” equations: T <table name>=<y0>, <y1>, …, <Yn>
 
 ### Initial values
-Defined as “N” equations: <name of level>=<algebraic expression or value>
+Defined as “N” equations with the variable = the expression or value.
 
 ## Resources
 
