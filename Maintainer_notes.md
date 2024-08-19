@@ -1,5 +1,6 @@
 # Notes on preparing and maintainng "Model of the Week"
 
+This document provides an overview of the tools and command for maintaining the model-of-the-week repository. 
 
 ## Git command for adding a model as a submodule
 
