@@ -22,7 +22,7 @@ As you rebuild the model, you might have questions about why the modeler chose a
 
 # The Models
 
-001 [Forrester's Market Growth model](https://github.com/CBSDLab/market-growth/tree/5780c06f7586c6ec536b82bb96357da2ae220e3e)
+001 [Forrester's Market Growth model](https://github.com/CBSDLab/market-growth/tree/267acd4193e92d25cda41f1c263cbcf1b5ae55ae)
 
 # Resources
 
