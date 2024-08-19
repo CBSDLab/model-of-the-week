@@ -2,7 +2,7 @@
 
 This document provides resources for reading and translating DYNAMO system dynamics models into current languages and modeling software. 
 
-# Background
+## Background
 
 DYNAMO was the first dedicated programming language for system dynamics. Orginally developed by Jack Pugh (1963) and Phyllis Fox (2005), DYNAMO provided the first high-level domain specific language for building, simulating and analyzing system dynamics models. DYNAMO was the main system dynamics programming language from 1963 through the mid 1980's when microcomputers started to become widely avaialble, especially the orginal Macintosh computer that led to the creation of Stella/iThink by Barry Richmond, Vensim by David Petersen and Bob Eberlein on Windows systems, and Powersim by ??. 
 
@@ -10,7 +10,7 @@ Today, there is no known working version of DYNAMO available. Despite this, DYNA
 
 There are many benefits to learning to read and translate DYNAMO. First and foremost, it provides access to a large class of fundamental models and lessons in system dynamics. For example, people regularly refer to the Urban Dynamics model, which was written in DYNAMO. Translating and rebuilding Urban Dynamics not only provides access to the model, but familiarity and insights into Forrester's style of modeling. Second, translating and rebuilding models is a great practice for developing modeling skills and learnign the nuances of different implementations. The experience of building and comparing models and various implementations provides a foundation for appreciating the nuances of numerical methods and interpreting results to inform policy and program design.   
 
-# DYNAMO syntax
+## DYNAMO syntax
 
 DYNAMO syntax looks something like the following with the first letter indicating the type of equation or expression, which is followed by the actual equation/expression. For example, L designates a level variable, A an auxilary equation, and C a constant. 
 
@@ -35,14 +35,33 @@ L  SUFFER.K=SUFFER.J+DT*(NOTICE.JK-TRYCON.JK)
 .
 .
 ```
+The easiest way to start with the translation is to draw the diagram. 
+
+Level equations
+Defined as “L” equations and written as a difference equation: <name of variable>.K=<name of variable>.J + DT*(<rate variable>+/-<rate variable>)
 
 
+### Rate equations
+Defined as “R” equations: <name of variable>=<algebraic expression or value>
 
-# Resources
+### Auxiliary equations
+Defined as “A” equations: <name of variable>=<algebraic expression or value>
+
+### Constants
+Defined as “C” equations: <name of constant>=<value>
+
+### TABLE functions
+Appear in equations as …TABLE(<table name>, <input variable>, <x min, x max>, <x increment>
+Defined separately as “T” equations: T <table name>=<y0>, <y1>, …, <Yn>
+
+### Initial values
+Defined as “N” equations: <name of level>=<algebraic expression or value>
+
+## Resources
 
 While out of print, Richardon and Pugh (1986) provide a solid introduction to the DYNAMO language and system dynamics modeling. More recently, Walker and Malczynski (2014) provide an overview of translating DYNAMO models to Powersim, a modern platform for system dynamics modeling. 
 
-# References
+## References
 Fox, P. A. (2005). *An interview with Phyllis A. Fox* [Interview]. 
 
 Pugh, A. L. (1963). *The DYNAMO User’s Manual.* The MIT Press. 
