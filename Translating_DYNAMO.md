@@ -35,6 +35,15 @@ L  SUFFER.K=SUFFER.J+DT*(NOTICE.JK-TRYCON.JK)
 .
 .
 ```
+
+In DYNAMO, variables use a subscript to determine the value to be used. A .K subscript refers to the present calculation while a .J refers to the previous calculation, and .JK to the present calculation based on existing values.  For example, the following expression,
+
+```
+L  SUFFER.K=SUFFER.J+DT*(NOTICE.JK-TRYCON.JK)
+```
+
+is a level equation where the value of SUFFER at time K is a function of SUFFER at the previous timestep J plus the different multipled by the timestep (DT) between NOTICE and TRYCON, which are values taken from the present calculation. 
+
 The easiest way to start with the translation is to draw the diagram. 
 
 Level equations
