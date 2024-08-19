@@ -42,10 +42,14 @@ Defined as “L” equations and written as a difference equation: <name of var
 
 
 ### Rate equations
-Defined as “R” equations: <name of variable>=<algebraic expression or value>
+Defined as “R” equations with the variable = the expression or value. E.g., 
+
+```
+R  TRYAPP.KL=((TOLRAT.K*(LEGIT.K/100)+(CONSTR/100)))/TIMEGONE.K  
+```
 
 ### Auxiliary equations
-Defined as “A” equations: <name of variable>=<algebraic expression or value>
+Defined as “A” equations with <name of variable>=<algebraic expression or value>
 
 ### Constants
 Defined as “C” equations: <name of constant>=<value>
