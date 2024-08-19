@@ -12,7 +12,7 @@ There are many benefits to learning to read and translate DYNAMO. First and fore
 
 # DYNAMO syntax
 
-DYNAMO syntax 
+DYNAMO syntax looks something like the following with the first letter indicating the type of equation or expression, which is followed by the actual equation/expression. For example, L designates a level variable, A an auxilary equation, and C a constant. 
 
 ```
 .
@@ -35,6 +35,8 @@ L  SUFFER.K=SUFFER.J+DT*(NOTICE.JK-TRYCON.JK)
 .
 .
 ```
+
+
 
 # Resources
 
