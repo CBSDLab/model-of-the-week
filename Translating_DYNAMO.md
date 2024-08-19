@@ -6,8 +6,13 @@ This document provides resources for reading and translating DYNAMO system dynam
 
 DYNAMO was the first dedicated programming language for system dynamics. Orginally developed by Jack Pugh (1963) and Phyllis Fox (2005), DYNAMO provided the first high-level domain specific language for building, simulating and analyzing system dynamics models. DYNAMO was the main system dynamics programming language from 1963 through the mid 1980's when microcomputers started to become widely avaialble, especially the orginal Macintosh computer that led to the creation of Stella/iThink by Barry Richmond, Vensim by David Petersen and Bob Eberlein on Windows systems, and Powersim by ??. 
 
+Today, there is no known working version of DYNAMO available. Despite this, DYNAMO models can be translated and reproduced using available tools--a testament to the idea of reproducibilty of computational models developed when the original software, operating systems, or source code are available. 
+
+There are many benefits to learning to read and translate DYNAMO. First and foremost, it provides access to a large class of fundamental models and lessons in system dynamics. For example, people regularly refer to the Urban Dynamics model, which was written in DYNAMO. Translating and rebuilding Urban Dynamics not only provides access to the model, but familiarity and insights into Forrester's style of modeling. Second, translating and rebuilding models is a great practice for developing modeling skills and learnign the nuances of different implementations. The experience of building and comparing models and various implementations provides a foundation for appreciating the nuances of numerical methods and interpreting results to inform policy and program design.   
+
 # DYNAMO syntax
 
+DYNAMO syntax 
 
 ```
 .
@@ -30,6 +35,8 @@ L  SUFFER.K=SUFFER.J+DT*(NOTICE.JK-TRYCON.JK)
 .
 .
 ```
+
+# Resources
 
 
 # References
