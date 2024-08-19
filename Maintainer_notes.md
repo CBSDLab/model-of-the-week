@@ -11,3 +11,12 @@ To add a repository to the model-of-the-week respository, open up a terminal on 
 ```
 git submodule add <github repository>.
 ```
+## Git command for updating a submodule in "Model of the Week" 
+
+As model repositories are modified, we may periodically want to pull the changes from a model into the "Model of the Week" repository. To do this via termial in the local director, update the submodule from the remote repository, commit the change and push the changes back to the main remote repository:
+
+```
+git submodule update --remote
+git commit -a -m "updated submodule..."
+git push
+```
