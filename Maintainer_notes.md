@@ -20,3 +20,4 @@ git submodule update --remote
 git commit -a -m "updated submodule..."
 git push
 ```
+Remember to update any URLs to reflect the change since the updated submodule will refer to a new commit. 
