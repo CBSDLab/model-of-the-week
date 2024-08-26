@@ -1,3 +1,6 @@
 [submodule "market-growth"]
 	path = market-growth
 	url = git@github.com:CBSDLab/market-growth.git
+[submodule "cressive-legitimation"]
+	path = cressive-legitimation
+	url = git@github.com:CBSDLab/cressive-legitimation.git
