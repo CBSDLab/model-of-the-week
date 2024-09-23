@@ -4,3 +4,6 @@
 [submodule "cressive-legitimation"]
 	path = cressive-legitimation
 	url = git@github.com:CBSDLab/cressive-legitimation.git
+[submodule "tragedy-of-commons"]
+	path = tragedy-of-commons
+	url = https://github.com/CBSDLab/tragedy-of-commons
