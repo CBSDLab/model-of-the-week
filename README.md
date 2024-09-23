@@ -23,13 +23,14 @@ As you rebuild the model, you might have questions about why the modeler chose a
 # The Models
 
 1. [Forrester's Market Growth model](https://github.com/CBSDLab/market-growth/tree/267acd4193e92d25cda41f1c263cbcf1b5ae55ae) ([Solution available](https://github.com/CBSDLab/market-growth))
-2. [Jacobsen's Cressive Legitimation model](https://github.com/CBSDLab/cressive-legitimation/tree/2d4c6b6e7f52c2375f7981fe4eb42e32ed20333d) 
+2. [Jacobsen's Cressive Legitimation model](https://github.com/CBSDLab/cressive-legitimation/tree/2d4c6b6e7f52c2375f7981fe4eb42e32ed20333d)
+3. [Jay M. Anderson's "Tragedy of Commons" model](https://github.com/CBSDLab/tragedy-of-commons/tree/ae6d9753e72f2d998de86d8d45692bcb6ef9426b)
 
 # Future Models
 
-* Tragedy of Commons 
 * Predator-Prey
 * Bass Diffusion
+* SIR
  
 # Resources
 
