@@ -7,3 +7,6 @@
 [submodule "tragedy-of-commons"]
 	path = tragedy-of-commons
 	url = https://github.com/CBSDLab/tragedy-of-commons
+[submodule "Bass-diffusion"]
+	path = Bass-diffusion
+	url = https://github.com/CBSDLab/Bass-diffusion
