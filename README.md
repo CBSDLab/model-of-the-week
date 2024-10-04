@@ -14,7 +14,8 @@ Each week, we post a model that can be rebuilt that will include:
 2. The equations, initial conditions, and simulation setup (e.g., time step, start and end time).
 3. Results from the baserun simulation.
 4. Any supplemental materials such as a link or paper/chapter of the original model.
-5. A "solution" representing a running simulation model (if available) that you can use to compare your model against if you get stuck or run into issues.  
+5. A "solution" representing a running simulation model (if available) that you can use to compare your model against if you get stuck or run into issues. There can be multiple solutions. Each solution will be on its own branch of the model repository. 
+6. To add a solution, go to the model repository, create a branch with your name, and upload your solution to your branch of the model.
 
 The model and related information will be available as part of a public GitHub repository, so you can download the repository into a folder on your computer to work wtih. 
 
