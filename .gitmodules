@@ -13,3 +13,6 @@
 [submodule "Rural-land-use"]
 	path = Rural-land-use
 	url = git@github.com:CBSDLab/Rural-land-use.git
+[submodule "collective-behavior"]
+	path = collective-behavior
+	url = git@github.com:CBSDLab/collective-behavior.git
