@@ -34,7 +34,7 @@ As you rebuild the model, you might have questions about why the modeler chose a
 * Lotka–Volterra predator-prey model
 * Granovetter's threshold model of collective behavior
 * Susceptible-infected-recovered (SIR) model
-* Forester's World1 model that started the conversation with the Club of Rome and limits to growth
+* Forrester's World1 model that started the conversation with the Club of Rome and limits to growth
 * Hirsch's model of innovations in schools
 * Levine and Roberts' model of treatment dropout
  
