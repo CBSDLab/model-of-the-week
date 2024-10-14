@@ -25,8 +25,8 @@ As you rebuild the model, you might have questions about why the modeler chose a
 
 1. [Forrester's Market Growth model](https://github.com/CBSDLab/market-growth/tree/267acd4193e92d25cda41f1c263cbcf1b5ae55ae) ([Solution available](https://github.com/CBSDLab/market-growth))
 2. [Jacobsen's Cressive Legitimation model](https://github.com/CBSDLab/cressive-legitimation/tree/2d4c6b6e7f52c2375f7981fe4eb42e32ed20333d)
-3. [Jay M. Anderson's "Tragedy of Commons" model](https://github.com/CBSDLab/tragedy-of-commons/tree/ae6d9753e72f2d998de86d8d45692bcb6ef9426b)
-4. [Frank Bass's model of product growth](https://github.com/CBSDLab/Bass-diffusion/tree/65165c116ceab98f08f6220de0fbf3eb447a70b1) ([Solution available](https://github.com/CBSDLab/Bass-diffusion/tree/Hovmand_solution))
+3. [Anderson's "Tragedy of Commons" model](https://github.com/CBSDLab/tragedy-of-commons/tree/ae6d9753e72f2d998de86d8d45692bcb6ef9426b)
+4. [Bass's model of product growth](https://github.com/CBSDLab/Bass-diffusion/tree/65165c116ceab98f08f6220de0fbf3eb447a70b1) ([Solution available](https://github.com/CBSDLab/Bass-diffusion/tree/Hovmand_solution))
 5. [Rural land use based on Andy Ford's forest management in equilibrium structure](https://github.com/CBSDLab/Rural-land-use/tree/8309434de382ec9cc346f06fc337a0891a62671b) ([Solution available](https://github.com/CBSDLab/Rural-land-use/tree/Original-solution))
 6. [Granovetter's threshold model of collective behavior](https://github.com/CBSDLab/collective-behavior/tree/d3a7e01321bd38f0f68443ed0b48d2fb8fc20f8e)
 
