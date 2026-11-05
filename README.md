@@ -37,6 +37,7 @@ As you rebuild the model, you might have questions about why the modeler chose a
 * Forrester's World1 model that started the conversation with the Club of Rome and limits to growth
 * Hirsch's model of innovations in schools
 * Levine and Roberts' model of treatment dropout
+* Sterman's model of knowledge growth
  
 # Resources
 
